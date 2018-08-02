@@ -1,0 +1,14 @@
+@import 'zmienne';
+@import 'mixins';
+@import 'header';
+@import 'footer';
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    color: black;
+    
+} 
